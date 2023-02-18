@@ -1,4 +1,4 @@
-This my first commits!
+This my another commits!
 
 # in a new folder you need to initialise git so you can start using git with your new project
 git init
