@@ -1,1 +1,12 @@
 This my first commits!
+
+# in a new folder you need to initialise git so you can start using git with your new project
+git init
+
+# to add your files to staging (the area where you put your changed files before comitting them)
+git add <filename>
+OR
+git add .       # using this will add everything all at once, you may or may not want to do this so just check bwfore using this
+
+# to commit your change (that means to confirm your changes)
+git commit -m "<enter some message here>"
